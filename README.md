@@ -1,4 +1,7 @@
 # Universite-Yonetim-Sistemi
+![image](https://user-images.githubusercontent.com/77547137/221430525-9658c6d1-fae5-4c79-9bdb-064e6a0d4466.png)
+
+
 Ödev - Üniversite Yönetim Sistemi
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
