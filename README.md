@@ -1,2 +1,2 @@
-# -niversite-Y-netim-Sistemi
+# Universite-Yonetim-Sistemi
 Patika.dev OOP kursunda verilen ödev.
